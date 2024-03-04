@@ -37,9 +37,13 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/JmX1rJa' title='Video Demo' width='' alt='Video Demo' />
+<!-- <img src='https://imgur.com/a/JmX1rJa' title='Video Demo' width='' alt='Video Demo' /> -->
 
-![Debugging GIF](https://imgur.com/a/JmX1rJa)
+![Debug GIF](https://i.imgur.com/JmX1rJa.gif)
+
+### I could not embed the gif here, due to file size limitations. Adding the link here: https://imgur.com/a/JmX1rJa
+
+
 
 GIF created with **imgur**
 
