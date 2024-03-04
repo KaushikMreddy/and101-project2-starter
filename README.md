@@ -39,6 +39,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://imgur.com/a/JmX1rJa' title='Video Demo' width='' alt='Video Demo' />
 
+![Debugging GIF](https://imgur.com/a/JmX1rJa)
 
 GIF created with **imgur**
 
