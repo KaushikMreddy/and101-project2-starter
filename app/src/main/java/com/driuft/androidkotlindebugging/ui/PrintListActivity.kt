@@ -26,8 +26,8 @@ class PrintListActivity : AppCompatActivity() {
 
     private fun combinedWords(): String {
         var combined = ""
-        for (idx in 0 until words.size + 1) {
-            combined += "${words[idx]}\n"
+        for (idx in words) {
+            combined += "${idx}\n"
         }
         return combined
     }
